@@ -1,0 +1,32 @@
+<component name="InspectionProjectProfileManager">
+  <profile version="1.0">
+    <option name="myName" value="Project Default" />
+    <inspection_tool class="PyUnresolvedReferencesInspection" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="ignoredIdentifiers">
+        <list>
+          <option value="projectfirst.indexapp.views.*" />
+          <option value="a.urllib2" />
+          <option value="urllib2" />
+          <option value="SoupStrainer" />
+          <option value="headers" />
+          <option value="a.lxml" />
+          <option value="project.homeapp.forms.*" />
+          <option value="project.homeapp.models.*" />
+          <option value="project.homeapp.urls.*" />
+          <option value="abchrms.models.super" />
+          <option value="abchrms.models.*" />
+          <option value="taskproject.customuser.models.*" />
+          <option value="django.utils.user_type" />
+          <option value="taskproject.customuser.views.*" />
+          <option value="taskproject.shop.views.product_name" />
+          <option value="taskproject.shop.views.*" />
+          <option value="myproject.homeapp.views.pass1" />
+          <option value="taskproject.signuplogin.views.*" />
+          <option value="taskproject.signuplogin.models.user_type" />
+          <option value="taskproject.signuplogin.admin.signuplogin" />
+          <option value="djuser.customlogin.models.CustomUserManager" />
+        </list>
+      </option>
+    </inspection_tool>
+  </profile>
+</component>
